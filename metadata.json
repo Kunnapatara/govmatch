@@ -1,0 +1,6 @@
+{
+  "name": "GOVMATCH",
+  "description": "Personal Federal Career Intelligence — Evidence first. Your decision. Know before you apply to federal jobs on USAJOBS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
